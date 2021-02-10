@@ -1,0 +1,225 @@
+{
+  "project_info": {
+    "project_number": "591347891866",
+    "firebase_url": "https://bartertrader254.firebaseio.com",
+    "project_id": "bartertrader254",
+    "storage_bucket": "bartertrader254.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591347891866:android:00ccc6b2203c6c76",
+        "android_client_info": {
+          "package_name": "com.developer.ibra.bartertrader254"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591347891866-f849oeuto6mindv5mqcshcidli7mlqg4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developer.ibra.bartertrader254",
+            "certificate_hash": "c8b0ea73a74c31aa69989e9521b1220d224c1443"
+          }
+        },
+        {
+          "client_id": "591347891866-170u1jrna0sa3b4lis47a23isktvt2n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_UqtQ5BMCiqQK7a-CN5YxUA-hzBhV4lI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591347891866-170u1jrna0sa3b4lis47a23isktvt2n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591347891866:android:242a27ce985f8e37",
+        "android_client_info": {
+          "package_name": "com.developer.ibra.bartertrader254admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591347891866-2lre319es8rp9gagqjtbjgrnsb9ptqdg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developer.ibra.bartertrader254admin",
+            "certificate_hash": "c8b0ea73a74c31aa69989e9521b1220d224c1443"
+          }
+        },
+        {
+          "client_id": "591347891866-170u1jrna0sa3b4lis47a23isktvt2n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_UqtQ5BMCiqQK7a-CN5YxUA-hzBhV4lI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591347891866-170u1jrna0sa3b4lis47a23isktvt2n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591347891866:android:d186ec492dc06db5",
+        "android_client_info": {
+          "package_name": "com.developer.ibra.projectwrite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591347891866-hrjgb0fiqu14fs95ffq6tous4ckmvrdj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developer.ibra.projectwrite",
+            "certificate_hash": "c8b0ea73a74c31aa69989e9521b1220d224c1443"
+          }
+        },
+        {
+          "client_id": "591347891866-170u1jrna0sa3b4lis47a23isktvt2n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_UqtQ5BMCiqQK7a-CN5YxUA-hzBhV4lI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591347891866-170u1jrna0sa3b4lis47a23isktvt2n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591347891866:android:4cf486b627a20041",
+        "android_client_info": {
+          "package_name": "com.example.androidlocationalarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591347891866-kjfm7m6crh7b4atah004ib84cqsisves.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androidlocationalarm",
+            "certificate_hash": "88cbd3868b1a553cba2213bd0ec902aa857c3ad9"
+          }
+        },
+        {
+          "client_id": "591347891866-170u1jrna0sa3b4lis47a23isktvt2n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_UqtQ5BMCiqQK7a-CN5YxUA-hzBhV4lI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591347891866-170u1jrna0sa3b4lis47a23isktvt2n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591347891866:android:c6d8d9050d021d46",
+        "android_client_info": {
+          "package_name": "com.example.epark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591347891866-170u1jrna0sa3b4lis47a23isktvt2n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_UqtQ5BMCiqQK7a-CN5YxUA-hzBhV4lI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591347891866-170u1jrna0sa3b4lis47a23isktvt2n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591347891866:android:72f189a73329086b",
+        "android_client_info": {
+          "package_name": "com.example.locationalarmgeofencing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591347891866-4md2qofcs1sspvto1f3lbmcpqsnnsptm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.locationalarmgeofencing",
+            "certificate_hash": "88cbd3868b1a553cba2213bd0ec902aa857c3ad9"
+          }
+        },
+        {
+          "client_id": "591347891866-170u1jrna0sa3b4lis47a23isktvt2n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_UqtQ5BMCiqQK7a-CN5YxUA-hzBhV4lI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591347891866-170u1jrna0sa3b4lis47a23isktvt2n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
